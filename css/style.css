@@ -55,12 +55,12 @@ body {
 }
 
 .swiper-pagination {
-    position:static;
+    position:static; 
 }
 
-.swiper-pagination-bullet-active {
+.swiper-container .swiper-pagination-bullet{
     background-color: #B5B6BC;
-  }
+}
 
 
 .expand-button {
